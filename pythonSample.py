@@ -19,8 +19,8 @@ def tico(p, g):
         print("prove your  love")
 
 
-for i in t:
-    print(t)
+for i in range(len(t)):
+    print(t[i])
 
 
 
